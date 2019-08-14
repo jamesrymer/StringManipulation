@@ -2,7 +2,7 @@ import static org.junit.Assert.*;
 import org.junit.Test;
 import java.util.*;
 /*
-  EmailsTest -- unit tests for the Emails class.
+  StringCodeTester -- unit tests for the StringCode class.
  */
 public class StringCodeTester {
     @Test
